@@ -16,8 +16,8 @@ You can use the website to generate badges: https://shields.io/
 
 **Talking about Personal Stuffs:**
 - ✍️ My motto -> use the newest, use the best
-- 🌱 I'm currently learning [RxSwift, RxCocoa] and [RxJava, RxBinding]
 - 💼 Graduate of Software Engineering at Manisa Celal Bayar University.
+- 🌱 I'm currently learning [RxSwift, RxCocoa] and [RxJava, RxBinding]
 - 💬 Ask me about anything, I am happy to help;
 
 &nbsp;
@@ -46,14 +46,6 @@ You can use the website to generate badges: https://shields.io/
   	<img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
   </div>   
   <br>
- <div>
-  	<img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
-  	&nbsp;
-  	<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40">
-  	&nbsp;
-  	<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="52" height="46">	
-  </div> 
-  <br>
   <div>
   	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" width="40" height="40">
   	&nbsp;&nbsp;
@@ -65,6 +57,14 @@ You can use the website to generate badges: https://shields.io/
   	&nbsp;&nbsp;
   	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" width="40" height="40">
   </div>
+  <br>
+ <div>
+  	<img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
+  	&nbsp;
+  	<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40">
+  	&nbsp;
+  	<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="52" height="46">	
+  </div> 
   <br>
   <div>
   	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png" width="84" height="36">		
