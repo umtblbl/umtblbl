@@ -15,10 +15,10 @@ You can use the website to generate badges: https://shields.io/
 </a>
 
 **Talking about Personal Stuffs:**
-- ✍️ My motto -> use the newest, use the best
-- 💼 Graduate of Software Engineering at Manisa Celal Bayar University.
-- 🌱 I'm currently learning [RxSwift, RxCocoa] and [RxJava, RxBinding]
-- 💬 Ask me about anything, I am happy to help;
+- ✍️  My motto -> use the newest, use the best
+- 💼  Graduate of Software Engineering at Manisa Celal Bayar University.
+- 🌱  I'm currently learning [RxSwift, RxCocoa] and [RxJava, RxBinding]
+- 💬  Ask me about anything, I am happy to help;
 
 &nbsp;
 <br>
