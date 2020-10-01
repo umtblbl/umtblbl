@@ -42,17 +42,12 @@ You can use the website to generate badges: https://shields.io/
   <div>
   	<img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/Rx_Logo_M.png" width="50" height="55">
   	&nbsp;
-  	<img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
   </div>   
   <br>
   <div>
   	<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="45" height="46">
   	&nbsp;&nbsp;
   	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" width="40" height="40">
-  	&nbsp;&nbsp;
-  	<img src="https://resources.jetbrains.com/storage/products/appcode/img/meta/appcode_logo_300x300.png" width="40" height="40">		
-  	&nbsp;&nbsp;
-  	<img src="https://w7.pngwing.com/pngs/393/139/png-transparent-intellij-idea-integrated-development-environment-computer-software-source-code-scala-idea-miscellaneous-blue-angle.png" width="40" height="40">  	
   	&nbsp;&nbsp;
   	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" width="40" height="40">
   </div>
@@ -71,6 +66,8 @@ You can use the website to generate badges: https://shields.io/
   	<img src="https://user-images.githubusercontent.com/23519166/80290971-97716000-8773-11ea-9e1a-321be153d813.png" width="40" height="40">
   	&nbsp;&nbsp;
   	<img src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png" width="36" height="36"> 
+    &nbsp;&nbsp;
+    <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
   </div>    
 </p>
 
