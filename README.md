@@ -47,7 +47,7 @@ You can use the website to generate badges: https://shields.io/
   </div>   
   <br>
   <div>
-  	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" width="40" height="40">
+  	<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="40" height="40">
   	&nbsp;&nbsp;
   	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" width="40" height="40">
   	&nbsp;&nbsp;
