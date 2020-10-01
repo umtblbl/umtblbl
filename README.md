@@ -42,7 +42,7 @@ You can use the website to generate badges: https://shields.io/
   </div>
   <br>
   <div>
-  	<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="48" height="50">
+  	<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="49" height="50">
   	&nbsp;&nbsp;
   	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" width="44" height="44">
   	&nbsp;&nbsp;
