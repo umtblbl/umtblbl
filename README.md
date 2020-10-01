@@ -31,16 +31,15 @@ You can use the website to generate badges: https://shields.io/
 
 <p>
   <div>
-  	<img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
-  	&nbsp;
   	<img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
   	&nbsp;
   	<img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+     &nbsp;
+    <img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg">
+  	&nbsp;
   </div>
   <br>
   <div>
-  	<img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg">
-  	&nbsp;
   	<img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/Rx_Logo_M.png" width="50" height="55">
   	&nbsp;
   	<img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
