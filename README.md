@@ -70,7 +70,7 @@ You can use the website to generate badges: https://shields.io/
   	&nbsp;&nbsp;
   	<img src="https://user-images.githubusercontent.com/23519166/80290971-97716000-8773-11ea-9e1a-321be153d813.png" width="40" height="40">
   	&nbsp;&nbsp;
-  	<img src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png" width="40" height="40"> 
+  	<img src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png" width="36" height="36"> 
   </div>    
 </p>
 
