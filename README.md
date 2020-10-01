@@ -58,13 +58,13 @@ You can use the website to generate badges: https://shields.io/
   </div> 
   <br>
   <div>
+    <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    &nbsp;&nbsp;
   	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png" width="84" height="36">		
   	&nbsp;&nbsp;
   	<img src="https://user-images.githubusercontent.com/23519166/80290971-97716000-8773-11ea-9e1a-321be153d813.png" width="40" height="40">
   	&nbsp;&nbsp;
   	<img src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png" width="36" height="36"> 
-    &nbsp;&nbsp;
-    <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
   </div>    
 </p>
 
