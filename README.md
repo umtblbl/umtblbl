@@ -49,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
   <div>
   	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" width="40" height="40">
   	&nbsp;&nbsp;
-  	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" width="70" height="40">
+  	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" width="40" height="40">
   	&nbsp;&nbsp;
   	<img src="https://resources.jetbrains.com/storage/products/appcode/img/meta/appcode_logo_300x300.png" width="40" height="40">		
   	&nbsp;&nbsp;
