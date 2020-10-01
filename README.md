@@ -37,12 +37,9 @@ You can use the website to generate badges: https://shields.io/
      &nbsp;
     <img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg">
   	&nbsp;
-  </div>
-  <br>
-  <div>
-  	<img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/Rx_Logo_M.png" width="50" height="55">
+    <img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/Rx_Logo_M.png" width="40" height="40">
   	&nbsp;
-  </div>   
+  </div>
   <br>
   <div>
   	<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="45" height="46">
