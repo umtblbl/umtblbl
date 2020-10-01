@@ -47,14 +47,8 @@ You can use the website to generate badges: https://shields.io/
   	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" width="44" height="44">
   	&nbsp;&nbsp;
   	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" width="40" height="40">
-  </div>
-  <br>
- <div>
-  	<img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
-  	&nbsp;
+    &nbsp;
   	<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40">
-  	&nbsp;
-  	<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="52" height="46">	
   </div> 
   <br>
   <div>
