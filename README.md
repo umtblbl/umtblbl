@@ -46,7 +46,7 @@ You can use the website to generate badges: https://shields.io/
   	&nbsp;&nbsp;
   	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" width="44" height="44">
   	&nbsp;&nbsp;
-  	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" width="42" height="42">
+  	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" width="40" height="40">
   </div>
   <br>
  <div>
