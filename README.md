@@ -63,6 +63,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 <br>
-  	&nbsp;&nbsp;
-    &nbsp;&nbsp;
+<br>
+<br>
+
 ⭐️ From [umtblbl](https://github.com/umtblbl) &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=umtblbl-github-profile" />
