@@ -24,7 +24,6 @@ You can use the website to generate badges: https://shields.io/
 <br>
 <br>
 <br>
-<br>
 <a href="https://github.com/umtblbl">
     <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=umtblbl&show_icons=true&hide_border=true" />
 </a>
