@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 </a>
 
 **Talking about Personal Stuffs:**
-- ✍️ &nbsp; My motto -> use the newest, use the best
+- ✍️ &nbsp; My motto -> use the best, in the best way.
 - 💼 &nbsp; Graduate of Software Engineering at Manisa Celal Bayar University.
 - 🌱  &nbsp; I'm currently learning [RxSwift, RxCocoa] and [RxJava, RxBinding]
 - 💬  &nbsp; Ask me about anything, I am happy to help;
