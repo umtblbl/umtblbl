@@ -38,8 +38,6 @@ You can use the website to generate badges: https://shields.io/
      &nbsp;
     <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
   	&nbsp;
-    <img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/Rx_Logo_M.png" width="40" height="40">
-  	&nbsp;
   </div>
   <br>
   <div>
