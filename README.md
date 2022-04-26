@@ -4,7 +4,6 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/umtblbl)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umtblbl/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.umit.blbl@gmail.com)
 
@@ -17,7 +16,6 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 - ✍️ &nbsp; My motto -> use the best, in the best way.
 - 💼 &nbsp; Graduate of Software Engineering at Manisa Celal Bayar University.
-- 🌱  &nbsp; I'm currently learning [RxSwift, RxCocoa] and [RxJava, RxBinding]
 - 💬  &nbsp; Ask me about anything, I am happy to help;
 
 &nbsp;
