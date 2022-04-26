@@ -32,33 +32,17 @@ You can use the website to generate badges: https://shields.io/
 
 <p>
   <div>
-  	<img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
-  	&nbsp;
-    <img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg">
-     &nbsp;
-    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-  	&nbsp;
+    <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="88" height="82">
+  	<img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
+  	&nbsp;&nbsp;
+    <img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png">
   </div>
   <br>
   <div>
-  	<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="49" height="50">
-  	&nbsp;&nbsp;
-  	<img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-128x128_2x.png" width="44" height="44">
-  	&nbsp;&nbsp;
-  	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" width="40" height="40">
+    <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-128x128_2x.png" width="84" height="82">
     &nbsp;
-  	<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40">
+    <img width="7%" src="https://cdn-icons-png.flaticon.com/512/919/919833.png">
   </div> 
-  <br>
-  <div>
-    <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    &nbsp;
-  	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png" width="84" height="36">		
-  	&nbsp;&nbsp;
-  	<img src="https://user-images.githubusercontent.com/23519166/80290971-97716000-8773-11ea-9e1a-321be153d813.png" width="40" height="40">
-  	&nbsp;&nbsp;
-  	<img src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png" width="36" height="36"> 
-  </div>    
 </p>
 
 <br>
