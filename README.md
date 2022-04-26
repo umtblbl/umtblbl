@@ -30,20 +30,27 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:** 
 
-<p>
-  <div>
-    <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="88" height="82">
-  	<img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
-  	&nbsp;&nbsp;
-    <img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png">
-  </div>
-  <br>
-  <div>
-    <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-128x128_2x.png" width="84" height="82">
-    &nbsp;
-    <img width="7%" src="https://cdn-icons-png.flaticon.com/512/919/919833.png">
-  </div> 
-</p>
+  <table>
+    <tr>
+       <td>
+            <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" style="height:70px;">
+        </td>
+        <td>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" style="height:55px;">
+        </td>
+        <td>
+            <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="height:70px;">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-128x128_2x.png" style="height:70px;">
+        </td>
+        <td>
+            <img src="https://cdn-icons-png.flaticon.com/512/919/919833.png" style="height:60px;"
+        </td>
+    </tr>
+    <table>
 
 <br>
 <br>
